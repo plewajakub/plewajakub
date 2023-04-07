@@ -28,7 +28,7 @@ https://user-images.githubusercontent.com/70707081/230523050-f9bb75b4-6a09-4288-
 
 
 
-Had some fun with Spotify developer API, although the app needs approval from Spotify team for users to be able to use it, I've learned quite some things
+Had some fun with Spotify developer API, although the app needs approval from Spotify team for users (other than me 😭) to be able to use it, I've learned quite some things
 from creating it. Overall it was a nice project to practice working with many complex data objects. I plan to expand this app so it can be verified.
 
 ### [Utopia Vision](https://github.com/plewajakub/utopia-site/tree/master/utopia-site)
